@@ -1,0 +1,10 @@
+{
+  "name": "Luffy's Pace - One Piece",
+  "description": "The calm song from One Piece",
+  "author": "ayrostat-spec",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
